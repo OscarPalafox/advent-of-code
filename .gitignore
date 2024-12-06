@@ -152,5 +152,8 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
+# AoC input files
+"Day *.txt"
+
 # AoC text file with daily tests
 test.txt
